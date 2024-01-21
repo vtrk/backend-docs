@@ -1,0 +1,10 @@
+com.vtrk.videotracker
+com.vtrk.videotracker.API
+com.vtrk.videotracker.API.Manager
+com.vtrk.videotracker.controller
+com.vtrk.videotracker.Database
+com.vtrk.videotracker.Database.Dao
+com.vtrk.videotracker.Database.Dao.Postgres
+com.vtrk.videotracker.Database.Dao.Proxy
+com.vtrk.videotracker.Database.Model
+com.vtrk.videotracker.utils
